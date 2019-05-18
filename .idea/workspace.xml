@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="bf7cb167-d220-4c95-9889-329ade30203f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,12 +36,15 @@
       </MavenImportingSettings>
     </option>
   </component>
+=======
+>>>>>>> 5b5c601f5fb29a2e83b76cc517a0562496df9a4a
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="31" />
     <option name="y" value="180" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -216,4 +220,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> 5b5c601f5fb29a2e83b76cc517a0562496df9a4a
 </project>
